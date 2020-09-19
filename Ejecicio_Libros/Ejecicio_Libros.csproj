@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Tarea2\" />
     <Folder Include="Tarea3\" />
   </ItemGroup>
 
